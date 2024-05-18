@@ -1,5 +1,8 @@
 Hello, I'm Haman Bello Haman Wabi! 👋
 Welcome to my GitHub profile! I'm a passionate learner and an international student with the student ID 2023145003w. Currently, I'm embarking on an exciting journey of discovery and learning, far from home, in the beautiful country of China.
+<div align="center">
+  <img src="https://github.com/kobymaxwell123/kobymaxwell123/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240518120503.jpg">
+</div>
 
 🌏 A Little Bit About Me
 Originally from a land rich in culture and diversity, I've always been fascinated by the unique traditions and technological advancements across the globe. My curiosity and desire for knowledge led me to China, a country known for its deep historical roots and rapid modernization. Here, I'm not just studying my chosen field but also immersing myself in the Chinese way of life, learning the language, and exploring the rich cultural tapestry of this magnificent country.
